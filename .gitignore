@@ -1,0 +1,8 @@
+# nodemodule are note uploded
+nodemodule/
+.env
+dist/
+build/
+*.log
+.DS_Store
+
