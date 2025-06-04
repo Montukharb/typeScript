@@ -1,5 +1,5 @@
 # nodemodule are note uploded
-nodemodule/
+node_modules/
 .env
 dist/
 build/
